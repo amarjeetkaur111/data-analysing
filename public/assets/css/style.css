@@ -1,0 +1,46 @@
+/* Your custom styles */
+.navbar .nav-item img {
+	padding-right: 1em;
+	padding-left: 1rem;
+	margin-top: -20px;
+	width: 105px;
+}
+
+.navbar.scrolling-navbar{
+	padding-top: 5px; 
+    padding-bottom: 5px;
+}
+
+/*<!---------- HEADER --------------------*/
+.multiselect-container .multiselect-all .form-check, .multiselect-container .multiselect-group .form-check, .multiselect-container .multiselect-option .form-check {
+	padding: 0 5px 0 5px !important;
+}
+.md-pills .nav-link.active, .md-pills .show>.nav-link {
+	background-color: #4285f4;
+}	
+.fields{
+	float:left;
+	margin-left:15px;
+	margin-top:20px;
+	margin-bottom:20px;
+	font-weight:400;
+}
+.input-fields{
+	margin-top:15px;
+	margin-bottom:20px;
+}
+.category-title{
+	text-align:left;
+	margin-top:15px;
+	font-weight:500;
+}
+.category-title{
+	margin-left:15px;
+}
+.fields_names{
+	margin-left: 10px;
+}
+.catgory-title{
+	margin-right:-46px;
+}
+
